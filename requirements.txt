@@ -8,6 +8,6 @@ matplotlib==3.9.2
 plotly==6.0.0
 scikit-learn==1.6.1
 tqdm>=4.66.5
-opencv-python==4.9.0.80
+opencv-python
 # For web application
 streamlit==1.43.1
